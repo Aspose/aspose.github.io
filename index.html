@@ -17,6 +17,11 @@ if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(naviga
 $(".mobileanchor").removeAttr("href");
 }});</script>
     <style type="text/css">
+.clearfix
+{
+    float: left;
+    width: 100%;
+}
 #footer {
 	bottom: 0 !important;
 }
@@ -51,6 +56,9 @@ h2, h3 {
     font-weight: bold;
     font-family: 'Segoe UI' , 'Lucida Grande' , Verdana, Arial, Helvetica, sans-serif;
     margin: 15px 0 0px;
+}
+.col-lg-4 a{
+	color:#0082cb;
 }
 </style>
     <script type="text/javascript">
@@ -155,6 +163,16 @@ $("#navbar-button").toggleClass("topbutton");
 <div class="container-fluid api-block-section">
           <div class="white-bg">
         <div class="container">
+         <div class="col-lg-4">
+        <h2><i class="fa fa-file-text">&nbsp;</i> Examples</h2>
+        <p>Quickly try out a feature of an Aspose API using our examples. All projects use standard IDEs like Microsoft Visual Studio, IntelliJ IDEA, Netbeans etc. Just download and hit run, trial version of Aspose API will be automatically downloaded using NuGet or Maven.</p></div>
+         <div class="col-lg-4">
+        <h2><i class="fa-puzzle-piece fa">&nbsp;</i> Plugins</h2>
+        <p>Are you using a platform like WordPress, DNN, Dynamics CRM, Outlook, Python, PHP, Ruby etc. and want to use an Aspose API? Explore our plugins, they are written to integrate Aspose APIs with these frameworks. All our plugins are open source. Either use a binary or build from source, the plugins are free for you.</p></div>
+                 <div class="col-lg-4">
+        <h2><i class="fa-cubes fa">&nbsp;</i> Showcases</h2>
+        <p>These are small sized real world applications having some document manipulation features. Check out our <a href="https://github.com/aspose-cells/Aspose.Cells-for-Java/tree/master/Showcases/Html5_Spreadsheet_Editor_by_Aspose.Cells_for_Java">HTML5 Spreadsheet Editor</a> and <a href="https://github.com/aspose-pdf/Aspose.Pdf-for-.NET/tree/master/Showcases/HTML5_PDF_Editor_by_Aspose_Pdf_NET">PDF Editor</a> showcase projects. All showcases are open source.</p></div>
+        <div class="clearfix"><hr></div>
               <div class="api-box col-lg-4">
             <div class="api-product-title"> <i class="api-words-ico api-ico">&nbsp;</i>
                   <div>

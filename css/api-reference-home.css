@@ -414,10 +414,14 @@ ul.update-groupings li.grouping:hover {
     margin: 0 10px 0 0;
 	float:left;
 }
+
+.api-total-ico{
+    background-position: -8px -683px ;
+}
+
 .api-words-ico{
     background-position: -8px -7px ;
 }
-
 
 .api-cells-ico{
     background-position: -8px -58px ;

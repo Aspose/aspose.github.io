@@ -144,7 +144,7 @@
 #accordion  h1, #accordion .h1, #accordion h2, #accordion .h2,#accordion  h3, #accordion .h3, #accordion a{font-family:Arial, Helvetica, sans-serif!important;}
 .lhscontent{ margin-bottom:0!important;}
 #rightcontent h4.rightcontenttitle{font-size: 25px;    font-weight: bold;    margin-bottom: 25px;    margin-top: 0;}
-.big-box .api-box{ min-height: 285px!important;}
+.big-box .api-box{ min-height: 295px!important;}
 .api-box{min-height: 150px;}
 @media (min-width:0px) and (max-width:640px) {
 .big-box .api-box{

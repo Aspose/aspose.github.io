@@ -500,6 +500,7 @@ ul.update-groupings li.grouping:hover {
 	margin:0 10px 0 0;
 	float:left;
 	padding:0;
+    min-width:70%;
 }
 .api-box ul{
     margin: 10px 0;

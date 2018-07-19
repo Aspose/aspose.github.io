@@ -482,9 +482,14 @@ ul.update-groupings li.grouping:hover {
 .api-html-ico{
     background-position: -8px -735px ;
 }
-
 .api-gis-ico{
     background-position: -8px -839px ;
+}
+.api-eps-ico{
+    background-position: -8px -891px ;
+}
+.api-xps-ico{
+    background-position: -8px -943px ;
 }
 
 .api-product-title h2{

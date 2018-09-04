@@ -467,6 +467,10 @@ ul.update-groupings li.grouping:hover {
 .api-ocr-ico{
     background-position: -8px -422px ;
 }
+.api-omr-ico{
+    background-position: -8px -788px ;
+}
+
 .api-diagram-ico{
     background-position: -8px -474px ;
 }
@@ -490,6 +494,18 @@ ul.update-groupings li.grouping:hover {
 }
 .api-xps-ico{
     background-position: -8px -943px ;
+}
+.api-zip-ico{
+    background-position: -8px -995px ;
+}
+.api-psd-ico{
+    background-position: -8px -1047px ;
+}
+.api-storage-ico {
+    background-position: -8px -1099px;
+}
+.api-video-ico {
+    background-position: -8px -1151px;
 }
 
 .api-product-title h2{
